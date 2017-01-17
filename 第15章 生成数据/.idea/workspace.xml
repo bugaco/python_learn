@@ -31,7 +31,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="rw_visual_line.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/随机漫步/rw_visual_line.py">
+        <entry file="file://$PROJECT_DIR$/../第15章 生成数据/随机漫步/rw_visual_line.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
@@ -43,7 +43,7 @@
         </entry>
       </file>
       <file leaf-file-name="die.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/使用Pygal模拟掷骰子/die.py">
+        <entry file="file://$PROJECT_DIR$/../第15章 生成数据/使用Pygal模拟掷骰子/die.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
@@ -53,7 +53,7 @@
         </entry>
       </file>
       <file leaf-file-name="die_visual.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/使用Pygal模拟掷骰子/die_visual.py">
+        <entry file="file://$PROJECT_DIR$/../第15章 生成数据/使用Pygal模拟掷骰子/die_visual.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="93">
               <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="37" />
@@ -65,7 +65,7 @@
         </entry>
       </file>
       <file leaf-file-name="dice_visual.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/使用Pygal模拟掷骰子/dice_visual.py">
+        <entry file="file://$PROJECT_DIR$/../第15章 生成数据/使用Pygal模拟掷骰子/dice_visual.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
               <caret line="18" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="38" />
@@ -77,7 +77,7 @@
         </entry>
       </file>
       <file leaf-file-name="different_dice.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/使用Pygal模拟掷骰子/different_dice.py">
+        <entry file="file://$PROJECT_DIR$/../第15章 生成数据/使用Pygal模拟掷骰子/different_dice.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="281">
               <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
@@ -89,7 +89,7 @@
         </entry>
       </file>
       <file leaf-file-name="mpl_squares.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/绘制线/mpl_squares.py">
+        <entry file="file://$PROJECT_DIR$/../第15章 生成数据/绘制线/mpl_squares.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="29" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="29" />
@@ -99,7 +99,7 @@
         </entry>
       </file>
       <file leaf-file-name="random_walk.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/随机漫步/random_walk.py">
+        <entry file="file://$PROJECT_DIR$/../第15章 生成数据/随机漫步/random_walk.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
@@ -109,14 +109,14 @@
         </entry>
       </file>
       <file leaf-file-name="squares_plot.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/squares_plot.png">
+        <entry file="file://$PROJECT_DIR$/../第15章 生成数据/squares_plot.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="die_visual.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/使用Pygal模拟掷骰子/die_visual.svg">
+        <entry file="file://$PROJECT_DIR$/../第15章 生成数据/使用Pygal模拟掷骰子/die_visual.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -126,7 +126,7 @@
         </entry>
       </file>
       <file leaf-file-name="rw_visual.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/随机漫步/rw_visual.py">
+        <entry file="file://$PROJECT_DIR$/../第15章 生成数据/随机漫步/rw_visual.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
@@ -214,7 +214,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="生成数据" />
+              <option name="myItemId" value="第15章 生成数据" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -224,7 +224,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="生成数据" />
+              <option name="myItemId" value="第15章 生成数据" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -577,9 +577,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="418" y="102" width="1141" height="745" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28935397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22565968" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -635,7 +635,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/绘制坐标点/绘制1000个坐标点/scatter_squares.py">
+    <entry file="file://$PROJECT_DIR$/../第15章 生成数据/绘制坐标点/绘制1000个坐标点/scatter_squares.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
@@ -643,7 +643,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/绘制坐标点/绘制几个坐标点/scatter_squares.py">
+    <entry file="file://$PROJECT_DIR$/../第15章 生成数据/绘制坐标点/绘制几个坐标点/scatter_squares.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="26" />
@@ -651,7 +651,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/绘制线/mpl_squares.py">
+    <entry file="file://$PROJECT_DIR$/../第15章 生成数据/绘制线/mpl_squares.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="29" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="29" />
@@ -659,7 +659,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/随机漫步/random_walk.py">
+    <entry file="file://$PROJECT_DIR$/../第15章 生成数据/随机漫步/random_walk.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
@@ -667,7 +667,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/随机漫步/rw_visual.py">
+    <entry file="file://$PROJECT_DIR$/../第15章 生成数据/随机漫步/rw_visual.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
@@ -677,7 +677,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/随机漫步/rw_visual_line.py">
+    <entry file="file://$PROJECT_DIR$/../第15章 生成数据/随机漫步/rw_visual_line.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
@@ -687,12 +687,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/squares_plot.png">
+    <entry file="file://$PROJECT_DIR$/../第15章 生成数据/squares_plot.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/使用Pygal模拟掷骰子/die_visual.svg">
+    <entry file="file://$PROJECT_DIR$/../第15章 生成数据/使用Pygal模拟掷骰子/die_visual.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -700,7 +700,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/使用Pygal模拟掷骰子/die_visual.py">
+    <entry file="file://$PROJECT_DIR$/../第15章 生成数据/使用Pygal模拟掷骰子/die_visual.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
           <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="37" />
@@ -710,7 +710,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/使用Pygal模拟掷骰子/dice_visual.py">
+    <entry file="file://$PROJECT_DIR$/../第15章 生成数据/使用Pygal模拟掷骰子/dice_visual.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="18" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="38" />
@@ -720,7 +720,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/使用Pygal模拟掷骰子/die.py">
+    <entry file="file://$PROJECT_DIR$/../第15章 生成数据/使用Pygal模拟掷骰子/die.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
@@ -728,7 +728,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/使用Pygal模拟掷骰子/different_dice.py">
+    <entry file="file://$PROJECT_DIR$/../第15章 生成数据/使用Pygal模拟掷骰子/different_dice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
           <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
